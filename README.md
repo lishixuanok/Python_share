@@ -24,7 +24,17 @@
 
 * Sublime, NotePad++
 
-* vi, Emacs
+* vi, Emac
+
+### Step3: Run Python
+
+* Command line
+
+```shell
+python
+```
+
+* Editor: Run, build...
 
 ## Use-Python
 
@@ -39,4 +49,4 @@
 
 * [MySQL](./use-cases/Mysql.py)
 
-* Redis(./use-cases/Redis.py)
+* [Redis](./use-cases/Redis.py)
