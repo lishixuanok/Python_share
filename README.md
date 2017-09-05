@@ -40,8 +40,9 @@ python
 
 ### Documentation github
 
-[中文PythonShare](https://github.com/Yixiaohan/codeparkshare)
-[Awesome Python](https://github.com/vinta/awesome-python)
+* [中文PythonShare](https://github.com/Yixiaohan/codeparkshare)
+
+* [Awesome Python](https://github.com/vinta/awesome-python)
 
 ### Use-cases
 
@@ -50,3 +51,7 @@ python
 * [MySQL](./use-cases/Mysql.py)
 
 * [Redis](./use-cases/Redis.py)
+
+* [MongoDB](./use-cases/Mongodb.py)
+
+* [Crontab](./use-cases/Crontab.py)
